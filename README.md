@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Joshua
-- 👀 I’m interested in Technology & Innovation
-- 🌱 I’m currently learning Product Management & Agile Methods
-- 📫 How to reach me @JoshuaJumarie on Twitter
+👋 Hi, I’m @Joshua
+👀 I’m interested in Technology & Innovation
+🌱 I’m currently learning Product Management & Agile Methods
+📫 How to reach me @JoshuaJumarie on Twitter
 
 
 <!---
